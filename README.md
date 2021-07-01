@@ -1,5 +1,5 @@
 # Blasius_Boundary_Layer-Thwaites
-This is a fortran code for solving the 2D laminar boundary layer over a flat plate using Thwaites method.
+This is a fortran code for solving the 2D laminar boundary layer over a flat plate using Thwaites method that I wrote on 23 May, 2017.
 
 
 Thanks to Prof.Alexey N. Kudryavtsev for guiding me on this work.
